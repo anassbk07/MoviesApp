@@ -7,6 +7,7 @@ const SearchStackNavigator = createStackNavigator({
   Search: {
     screen: Search,
     navigationOptions: {
+        title: 'Bienvenu sur la meilleur application ',
       title: 'Rechercher'
     }
   },
