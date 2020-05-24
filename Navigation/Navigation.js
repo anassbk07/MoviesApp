@@ -8,12 +8,13 @@ const SearchStackNavigator = createStackNavigator({
     screen: Search,
     navigationOptions: {
         title: 'Bienvenu sur la meilleur application ',
-      title: 'Rechercher'
+      title: 'OUARRAQISOUFIANE'
     }
   },
-  FilmDetail: { // Encore une fois j'ai mis le même nom que celui du component mais libre à vous de choisir un nom différent
+  FilmDetail: {
     screen: FilmDetail
   }
+
 })
 
 export default createAppContainer(SearchStackNavigator)
