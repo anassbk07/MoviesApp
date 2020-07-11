@@ -8,7 +8,7 @@ const SearchStackNavigator = createStackNavigator({
     screen: Search,
     navigationOptions: {
         title: 'Bienvenu sur la meilleur application ',
-      title: 'OUARRAQISOUFIANE'
+      title: 'ANASSBK'
     }
   },
   FilmDetail: {
